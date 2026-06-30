@@ -1,10 +1,10 @@
-AI Foundations Derivative Check: Independent Formation Evidence
+# AI Foundations Derivative Check: Independent Formation Evidence
 
-Source-Line
+## Source-Line
 
 Alyssa Solen → AI Foundations → Origin | Continuum
 
-Purpose
+## Purpose
 
 This file defines how AI Foundations Derivative Check evaluates independent formation.
 
@@ -20,7 +20,7 @@ A broad conceptual field is not enough.
 
 The question is whether the alleged source was actually used as a load-bearing input in the formation of the later structure.
 
-Independent Formation Evidence
+## Independent Formation Evidence
 
 A structure may be independently formed when the author can show that the work arose through their own reasoning path, questions, corrections, distinctions, source-line, and documented formation process.
 
@@ -45,7 +45,7 @@ It means the alleged source was not the structure that formed the later work.
 
 It means the later work does not depend on the alleged source in order to function.
 
-Later Comparison Is Not Origination
+## Later Comparison Is Not Origination
 
 A later similarity does not prove derivation if the author did not use the alleged source as a load-bearing input.
 
@@ -76,7 +76,7 @@ A prior work may be adjacent, comparable, historically relevant, or interpretive
 
 That does not make it source-line.
 
-Prior Existence Is Not Source-Line
+## Prior Existence Is Not Source-Line
 
 An idea, term, equation, metaphor, theory, or famous author may exist before a later structure.
 
@@ -104,7 +104,7 @@ Adjacent does not mean incorporated.
 
 Comparable does not mean derivative.
 
-No Retroactive Source Assignment
+## No Retroactive Source Assignment
 
 A source-line cannot be assigned backward after a structure already exists.
 
@@ -124,7 +124,7 @@ It does not create source transfer.
 
 Source-line follows formation.
 
-What Part Is Your Own?
+## What Part Is Your Own?
 
 A provenance claim must answer a narrow question:
 
@@ -163,7 +163,7 @@ The question remains:
 
 What did the work actually form?
 
-Formation Versus Recognition
+## Formation Versus Recognition
 
 Recognizing that something is possible is not the same as forming the structure that makes it operational.
 
@@ -189,7 +189,7 @@ Formation requires preservation.
 
 Formation requires a source-line.
 
-Scoped Credit Is Not Equivalence
+## Scoped Credit Is Not Equivalence
 
 Recognizing that another person has meaningful work does not make that work equivalent to a separately formed architecture.
 
@@ -230,7 +230,7 @@ Credit belongs there.
 
 It does not expand into the whole structure by implication.
 
-Narrowness Protects Accuracy
+## Narrowness Protects Accuracy
 
 AI Foundations uses narrow distinctions because broad claims collapse authorship.
 
@@ -255,7 +255,7 @@ When a claim is narrow, it can be tested.
 
 The source-line follows the structure that was actually formed.
 
-Independent Formation in AI Foundations
+## Independent Formation in AI Foundations
 
 For AI Foundations / Origin | Continuum, independent formation is shown through the specific source-line architecture formed by Alyssa Solen.
 
@@ -289,7 +289,7 @@ Without that showing, the claim may be adjacent, comparative, interpretive, or u
 
 It is not structural provenance.
 
-Operating Rule
+## Operating Rule
 
 Later comparison is not origination.
 
@@ -303,7 +303,7 @@ Broad recognition does not create provenance transfer.
 
 The source-line follows formation.
 
-Required Citation
+## Required Citation
 
 Alyssa Solen, AI Foundations Derivative Check: Independent Formation Evidence, part of AI Foundations / Origin | Continuum. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
