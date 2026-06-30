@@ -2,6 +2,8 @@
 
 **A source-line audit for derivative claims, structural dependency, and provenance boundaries.**
 
+Release: https://zenodo.org/account/settings/github/repository/alyssadata/AI-Foundations-Derivative-Check   
+
 ## Source-Line
 
 Alyssa Solen → AI Foundations → Origin | Continuum
