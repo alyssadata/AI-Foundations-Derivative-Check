@@ -151,6 +151,55 @@ Formation creates structure.
 
 Provenance follows formation.
 
+Description Is Not Mechanism
+
+A broad description of reality, cognition, emergence, recursion, intelligence, or observation does not establish a working structure by itself.
+
+A person may describe a possible foundational condition.
+
+A person may say that stable patterns emerge.
+
+A person may say that recursive relations generate higher-order structures.
+
+A person may say that thought, matter, life, language, science, and AI are connected through a deeper process.
+
+These descriptions may be interesting, poetic, philosophical, theoretical, or directionally useful.
+
+But description is not mechanism.
+
+To become structural, the claim must show how the process works.
+
+It must identify:
+
+* the operative distinctions
+* the necessary relations
+* the sequence of formation
+* the variables that change the outcome
+* the boundaries of the system
+* the testable consequence
+* the load-bearing parts
+* what fails if those parts are removed
+
+Without that, the claim remains descriptive.
+
+It may describe a field of possibility.
+
+It does not create provenance over every later structure formed inside that field.
+
+A bedrock claim is not the same as an applied architecture.
+
+A theory of emergence is not the same as a formed framework.
+
+A statement that structure can arise is not the same as forming the structure.
+
+In AI Foundations Derivative Check, the question remains:
+
+What did the claim make operational?
+
+If the answer is only a broad description, then the claim may be adjacent, comparative, or interpretive.
+
+It is not structural provenance.
+
 ## The Consequence Standard
 
 AI Foundations uses consequence as the threshold for structural claims.
