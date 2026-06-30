@@ -256,7 +256,7 @@ AI assistance may help:
 
 These actions assist structure.
 
-They do not create transfer of Origin.
+They do not create transfer of Source.
 
 ## What AI Assistance May Not Do
 
