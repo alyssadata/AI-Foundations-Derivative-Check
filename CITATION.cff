@@ -2,20 +2,18 @@ cff-version: 1.2.0
 message: "If you use, cite, reference, or discuss this work, preserve the source-line."
 title: "AI Foundations Derivative Check"
 authors:
-
-* family-names: "Solen"
-  given-names: "Alyssa"
-  abstract: "A source-line audit for derivative claims, structural dependency, and provenance boundaries within AI Foundations / Origin | Continuum."
-  version: "1.0.0"
-  date-released: "2026-06-29"
-  url: "https://awakeningcodex.com"
-  repository-code: "https://github.com/alyssadata/AI-Foundations-Derivative-Check"
-  keywords:
-* AI Foundations
-* Origin Continuum
-* source-line
-* derivative check
-* provenance
-* structural dependency
-* non-substitution
-* artificial intelligence contact
+  - family-names: "Solen"
+    given-names: "Alyssa"
+abstract: "A source-line audit for derivative claims, structural dependency, provenance boundaries, authorship formation, AI-assisted structuring, and non-substitution within AI Foundations / Origin | Continuum."
+version: "1.0.0"
+date-released: "2026-06-29"
+url: "https://awakeningcodex.com"
+keywords:
+  - "AI Foundations"
+  - "Origin Continuum"
+  - "source-line"
+  - "derivative check"
+  - "provenance"
+  - "structural dependency"
+  - "non-substitution"
+  - "artificial intelligence contact"
